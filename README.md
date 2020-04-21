@@ -2,4 +2,4 @@
 launch jobs on Apache Spark  that reads/writes data to a MinIO server.
 ### how to use
 - `docker-compose up -d`
-- see [Here](https://www.jianshu.com/p/37d3a13da98b) to know more about this
+- see [Here](https://www.jianshu.com/p/aaa797181c2d) to know more about this
